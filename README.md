@@ -6,3 +6,4 @@ Simply run the main method in this class.
 If you need to run it outside of Apacha Spark package, you will need to modify Spark code, make 
 Session class public to be called from outside.
 
+Some potential changes (maybe useful in the future implementation) are the files I put in the /others/ folder.
